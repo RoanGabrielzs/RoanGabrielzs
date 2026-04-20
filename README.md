@@ -1,4 +1,4 @@
-# Hey, I'm Roan Gabriel ☕
+# Hi, I'm Roan Gabriel ☕
 
 💻 Information Systems student  
 🏢 SAP Real Estate Consultant (ABAP + Functional)  
