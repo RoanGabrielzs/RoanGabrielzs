@@ -15,6 +15,7 @@ I like building things, understanding how they work, and going a bit deeper than
   ### 💻 Programming & Development
 
   <p align="left">
+      <img src="sap-svgrepo-com.svg" width="40" title="SAP/ABAP"/> - SAP/ABAP <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> - Python <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> - HTML <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/> - CSS <br>
