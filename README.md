@@ -12,18 +12,21 @@ I like building things, understanding how they work, and going a bit deeper than
 - Building a stronger and more complete tech stack  
 
 ## 🛠️ Tech & Tools
-<p align="left">
-  <!-- ABAP (fallback via SAP logo because ABAP icon is inconsistent in Devicon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40" title="- SAP/ABAP"/>
+  ### 💻 Programming & Development
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="- Python"/>
+  <p align="left">
+      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  </p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="- HTML5"/>
+  ### 🧰 Tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="- CSS3"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="- JavaScript"/>
-</p>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  </p>
 
 ## 👨‍💻 About me
 - I enjoy immersive single-player experiences  
