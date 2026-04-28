@@ -37,4 +37,4 @@ I like building things, understanding how they work, and going a bit deeper than
 - Star Wars enthusiast  
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/roanziroldo/]
+- LinkedIn: https://www.linkedin.com/in/roanziroldo/
