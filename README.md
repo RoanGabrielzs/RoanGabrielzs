@@ -7,7 +7,7 @@ I like building things, understanding how they work, and going a bit deeper than
 
 ## 📈 Currently
 - Working on a college project  
-- Expanding my knowledge in ABAP  
+- Continuously expanding my ABAP expertise by working on real-world projects within a SAP consulting company.
 - Learning more about front-end and back-end development  
 - Building a stronger and more complete tech stack  
 
