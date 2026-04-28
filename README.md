@@ -1,24 +1,44 @@
-# Hi, I'm Roan Gabriel ☕
+<h1 align="center">Roan Gabriel ☕</h1>
+
+<p align="center">
+  SAP RE-FX Consultant • ABAP Developer • Functional Analyst
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAP+RE-FX+Consultant;ABAP+Developer;Functional+Analyst&center=true&width=500&height=45">
+</p>
 
 💻 Information Systems student  
-🏢 SAP Real Estate Consultant (ABAP + Functional)  
+🏢 SAP RE-FX Consultant | ABAP Developer & Functional Analyst
 
 I like building things, understanding how they work, and going a bit deeper than necessary.
 
-## 📈 Currently
-- Working on a college project  
-- Continuously expanding my ABAP expertise by working on real-world projects within a SAP consulting company.
-- Learning more about front-end and back-end development  
-- Building a stronger and more complete tech stack  
+> *"I make my own luck"*
 
-## 🛠️ Tech & Tools
-  ### 💻 Programming & Development
+## 📈 Currently
+- Working on a sustainability-focused web project  
+- Expanding ABAP expertise through real-world consulting scenarios (data validation, custom programs, business logic)
+- Strengthening full-stack fundamentals (front-end & back-end)
+
+<h2>
+  <img src="sap-svgrepo-com.svg" width="20"/> SAP Experience
+</h2>
+
+- SAP RE-FX (Real Estate Management: properties, land, contracts)
+- ALV Reports (classical) with user interaction (USER_COMMAND, navigation)
+- BAPI consumption with validation and RETURN handling
+- Custom data load programs (CSV input, validation, multi-table updates)
+- Enhancements using BAdI
+- Functional & Technical documentation (FS / TS) aligned with business requirements
+
+## 🛠️ Tech Stack
+  ### 💻 Programming
 
 <p align="left">
-  <img src="sap-svgrepo-com.svg" width="40" title="SAP/ABAP"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  
-  <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp;&nbsp;
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 </p>
@@ -26,7 +46,10 @@ I like building things, understanding how they work, and going a bit deeper than
   ### 🧰 Tools
 
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   </p>
 
 ## 👨‍💻 About me
@@ -37,4 +60,4 @@ I like building things, understanding how they work, and going a bit deeper than
 - Star Wars enthusiast  
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/roanziroldo/
+- LinkedIn: [Roan Ziroldo](https://www.linkedin.com/in/roanziroldo/)
