@@ -57,7 +57,7 @@ I like building things, understanding how they work, and going a bit deeper than
 - I enjoy immersive single-player experiences  
 - Big fan of coffee  
 - Into puzzles and problem solving  
-- Interested in history and astronomy  
+- Interested in history
 - Star Wars enthusiast  
 
 ## 📫 Contact
