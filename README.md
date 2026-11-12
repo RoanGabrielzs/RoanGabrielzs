@@ -16,9 +16,9 @@ I like building things, understanding how they work, and going a bit deeper than
 > *"I make my own luck"*
 
 ## 📈 Currently
-- Working on a sustainability-focused web project  
+- Working on a Tax Reform solution in SAP  
 - Expanding ABAP expertise through real-world consulting scenarios (data validation, custom programs, business logic)
-- Strengthening full-stack fundamentals (front-end & back-end)
+- Reading about economy and AI
 
 <h2>
   <img src="sap-svgrepo-com.svg" width="20"/> SAP Experience
